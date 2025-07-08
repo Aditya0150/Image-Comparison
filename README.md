@@ -82,8 +82,7 @@ src/
 - **Build Tool**: Vite
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide React
-- **Language**: JavaScript/JSX with TypeScript support
-- **Linting**: ESLint with TypeScript support
+- **Language**: JavaScript/JSX 
 
 ## 📖 Usage Guide
 
@@ -146,9 +145,6 @@ The project uses Tailwind CSS for styling. Configuration can be modified in `tai
 
 ### Vite Configuration
 Build settings and optimizations are configured in `vite.config.ts`.
-
-### ESLint
-Code quality rules are defined in `eslint.config.js`.
 
 ## 📱 Browser Support
 
