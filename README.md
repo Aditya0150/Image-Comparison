@@ -72,7 +72,7 @@ src/
 ├── types/
 │   └── index.js            # Type definitions and data structures
 ├── App.jsx                 # Main application component
-├── main.tsx               # Application entry point
+├── main.jsx               # Application entry point
 └── index.css              # Global styles with Tailwind CSS
 ```
 
